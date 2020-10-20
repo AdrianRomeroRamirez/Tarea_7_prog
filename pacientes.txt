@@ -1,0 +1,6 @@
+NIF: 33444555W. Nombre paciente: lolo. e-mail para notificaciones: lo@lo.lo.
+Numero de visitas: 1.
+
+NIF: 77319168E. Nombre paciente: adri. e-mail para notificaciones: adr@adr.adr.
+Número de hospitalizaciones: 2.
+
